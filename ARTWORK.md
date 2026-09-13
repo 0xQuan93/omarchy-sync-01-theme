@@ -4,7 +4,7 @@
 
 The three backgrounds in `backgrounds/` are original AI-assisted images generated for
 this theme with OpenAI's built-in image-generation tool on 2026-09-13. They were then
-resampled to 3840×2160 for consistent desktop use. The two official HiBy renders supplied
+resampled to 3840×2160 and encoded as quality-82 WebP for efficient desktop use. The two official HiBy renders supplied
 by the project owner were used only as visual style references during generation; the
 outputs were created from scratch and do not redistribute those source files.
 
@@ -16,7 +16,7 @@ product shapes, copied layouts, and recognizable franchise characters.
 
 Generation mode: OpenAI built-in image generation (`stylized-concept`).
 
-**01-cage-01.png:** Original high-impact biomechanical command-center wallpaper inspired
+**01-cage-01.webp:** Original high-impact biomechanical command-center wallpaper inspired
 by the supplied purple, neon-green, and electric-orange industrial hardware references.
 An enormous dark underground launch shaft with black-violet structural ribs and a suspended,
 original angular humanoid biomechanical silhouette mostly obscured on the right; luminous
@@ -25,7 +25,7 @@ and ample dark space on the left. Palette: `#08070D`, `#6F42C1`, `#9A68FF`, `#B7
 `#FF6B1A`, `#F4F0E8`. No text, letters, numbers, logos, watermarks, recognizable franchise
 character, emblem, copied interface, bright-white field, or blue-dominant palette.
 
-**02-synchro-array.png:** Original synchronization-telemetry wallpaper based on the supplied
+**02-synchro-array.webp:** Original synchronization-telemetry wallpaper based on the supplied
 industrial color language: a vast abstract command terminal with concentric hexagonal targeting
 rings, segmented waveforms, angular containment braces, micro-grid calibration marks, and
 layered smoked-glass panels. Retro-anime operations UI meets brutalist industrial design;
@@ -33,7 +33,7 @@ circular focus in the lower-right and a wide near-black working field on the lef
 `#08070D`, `#23123B`, `#6F42C1`, `#B7FF2A`, `#FF6B1A`, `#FF345F`. No readable writing,
 logos, insignia, watermarks, known characters, product shapes, or copied layouts.
 
-**03-terminal-gate.png:** Original emergency-launch environment using the supplied purple
+**03-terminal-gate.webp:** Original emergency-launch environment using the supplied purple
 chassis, green controls, and orange diagnostic-light palette: colossal sealed blast doors in a
 subterranean corridor, angular violet armor, neon-green coolant channels, orange hazard strips,
 floor beacons, vapor, cables, wet reflections, and a distant green slit. Cinematic hand-painted

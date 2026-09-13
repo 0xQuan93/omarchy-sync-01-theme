@@ -13,13 +13,13 @@ the HiBy reference renders are **not** redistributed.
 ## Install
 
 ```bash
-omarchy theme install https://github.com/0xQuan93/omarchy-evangelion-theme.git
+omarchy theme install https://github.com/0xQuan93/omarchy-sync-01-theme.git
 ```
 
 Omarchy applies a newly installed theme immediately. Later, select it again with:
 
 ```bash
-omarchy theme set omarchy-evangelion-theme
+omarchy theme set sync-01
 ```
 
 Cycle the three 4K wallpapers with:
@@ -71,7 +71,8 @@ executable theme files.
 ## Validate locally
 
 ```bash
-python3 tests/validate_theme.py
+python3 -c 'import pathlib, tomllib; tomllib.loads(pathlib.Path("colors.toml").read_text())'
+identify preview.png preview-unlock.png unlock.png backgrounds/*.webp
 ```
 
 ## Fan-project notice

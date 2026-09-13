@@ -10,4 +10,5 @@ Contributions should preserve the theme's semantic hierarchy and public-repo hyg
   photography, copied interfaces, commercial fonts, or unlicensed third-party media.
 - Screenshots must not expose private windows, notifications, account data, or third-party
   copyrighted media.
-- Run `python3 tests/validate_theme.py` before opening a pull request.
+- Parse `colors.toml` and inspect every image's dimensions and decoding before opening a
+  pull request; the commands in the README are the portable baseline.
