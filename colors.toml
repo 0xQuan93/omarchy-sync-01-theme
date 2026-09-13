@@ -1,0 +1,32 @@
+mode = "dark"
+
+# SYNC-01 — acid signal over armored violet.
+accent = "#B7FF2A"
+selection = "#3A245A"
+muted = "#74677F"
+
+background = "#0A0810"
+dark_background = "#07060B"
+darker_background = "#040306"
+lighter_background = "#1B1426"
+
+foreground = "#F4F0E8"
+dark_foreground = "#8E8298"
+light_foreground = "#CEC5D6"
+bright_foreground = "#FFFDF7"
+
+red = "#FF345F"
+yellow = "#FFD447"
+orange = "#FF6B1A"
+green = "#B7FF2A"
+cyan = "#57F2C8"
+blue = "#8E7CFF"
+magenta = "#A56BFF"
+brown = "#B97850"
+
+bright_red = "#FF6684"
+bright_yellow = "#FFE37A"
+bright_green = "#D3FF75"
+bright_cyan = "#8CFFE1"
+bright_blue = "#B4A8FF"
+bright_magenta = "#C49AFF"

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">SYNC-01 theme mark</title>
+  <desc id="desc">Angular violet, green and orange telemetry frame around the words SYNC-01.</desc>
+  <rect width="1200" height="300" fill="#0A0810"/>
+  <path d="M32 58V24h330l32 32h378l28-28h368v38" fill="none" stroke="#6F42C1" stroke-width="8"/>
+  <path d="M32 238v38h252l28-28h568l28 28h260v-40" fill="none" stroke="#A56BFF" stroke-width="8"/>
+  <path d="M64 92h82l24 24v72l-24 24H64zM1054 92h82v120h-82l-24-24v-72z" fill="#1B1426" stroke="#FF6B1A" stroke-width="6"/>
+  <path d="M82 112h46v80H82zM1072 112h46v80h-46z" fill="#B7FF2A"/>
+  <text x="600" y="185" fill="#F4F0E8" font-family="Barlow Condensed,DejaVu Sans,sans-serif" font-size="128" font-weight="800" letter-spacing="22" text-anchor="middle">SYNC-01</text>
+  <path d="M430 218h340" stroke="#B7FF2A" stroke-width="5"/>
+  <circle cx="404" cy="218" r="6" fill="#FF345F"/><circle cx="796" cy="218" r="6" fill="#FF6B1A"/>
+</svg>
